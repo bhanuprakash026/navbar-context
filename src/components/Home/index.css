@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.home-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.home-dark {
+  background-color: #000;
+}
+.home-light {
+  background-color: #fff;
+}
+.home-img {
+  height: 200px;
+  width: 200px;
+}
+.home-header-dark {
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #fff;
+}
+.home-header-light {
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #333;
+}
