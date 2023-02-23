@@ -52,7 +52,7 @@ const Navbar = () => (
               </li>
             </ul>
             <button
-              testid="theme"
+              data-testid="theme"
               className="theme-button"
               type="button"
               onClick={onClickThemeButton}
